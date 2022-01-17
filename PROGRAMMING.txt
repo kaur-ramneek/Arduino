@@ -58,7 +58,5 @@ void loop() {
      digitalWrite (yellowled, 1); 
    delay (3000); // yellowled lights for 3 sec.
    digitalWrite (yellowled, 0);
- 
- 
-   
+  
 }    
