@@ -1,4 +1,5 @@
-#TRAFFIC LIGHT SYSTEM
+# TRAFFIC LIGHT SYSTEM
+
 Traffic lights, also known as traffic signals, traffic lamps, traffic semaphore, signal lights, stop lights,  and traffic control signals (in technical parlance), are signaling devices positioned at road intersections, pedestrian crossings, and other locations to control flows of traffic.
  Traffic lights alternate the right of way accorded to users by displaying lights of a standard colour (red, amber (yellow), and green) following a universal color code. In the typical sequence of colour phases:
 •	The green light allows traffic to proceed in the direction denoted, if it is safe to do so and there is room on the other side of the intersection.
