@@ -1,5 +1,4 @@
-
-Light Dependent Resistor
+//Light Dependent Resistor
 
 int sensePin=0;
 int ledPin=13;
@@ -21,7 +20,7 @@ int val=analogRead(sensePin);
   digitalWrite(ledPin,LOW);
 
 
-HEAT SENSOR
+//HEAT SENSOR
 
 int sensePin=0;
 int ledPin=13;
